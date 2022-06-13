@@ -12,7 +12,7 @@ public class HomeController {
 
     @GetMapping
     public String get() {
-        return "Welcome to my world. You will be fairly treated";
+        return "Welcome to my world. You will be fairly treated once the deplyment is automated on GKE";
     }
 
 }
